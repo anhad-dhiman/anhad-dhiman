@@ -1,4 +1,4 @@
-# Hi, I'm Anhad 👋
+# Hi, I'm Anhad :)
 
 Backend-focused developer and final-year **Bachelor of IT** student at Kwantlen Polytechnic University (GPA 3.77, Dean's List ×5), based in Metro Vancouver.
 I build real-time backend systems in **Java / Spring Boot** and **Node.js**, and testing them — JUnit 5, MockMvc, Vitest — then shipping them in Docker.
@@ -7,7 +7,7 @@ I build real-time backend systems in **Java / Spring Boot** and **Node.js**, and
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 **[Chatroom](https://github.com/anhad-dhiman/Chatroom)** — Real-time chat application
 `Java 21` `Spring Boot` `WebSockets (STOMP)` `PostgreSQL` `React` `TypeScript` `Docker`
@@ -46,12 +46,12 @@ I build real-time backend systems in **Java / Spring Boot** and **Node.js**, and
 
 ---
 
-### 🧠 Problem Solving
+### Problem Solving
 
 Practicing DSA in **Java**, currently focused on **graph algorithms**:
 BFS/DFS, topological sort, cycle detection, bipartite graphs, multi-source BFS, Dijkstra, 0-1 BFS, Bellman-Ford, Floyd-Warshall.
 
-🌱 **Currently learning:** Union-Find, Minimum Spanning Trees, SCCs · AWS Solutions Architect – Associate (exam Feb 2027)
+**Currently learning:** Graph Theory · AWS Solutions Architect – Associate (exam Feb 2027) · Dynamic Programming
 
 ---
 
