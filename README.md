@@ -16,12 +16,12 @@ I build real-time backend systems in **Java / Spring Boot** and **Node.js**, and
 - **59 automated tests**, including WebSocket integration tests that connect real STOMP clients to verify delivery, privacy and invalid-token rejection
 - One-command setup with a multi-stage Dockerfile and Docker Compose
 
-**Build Your Setup** — Gaming setup platform
+**[Build Your Setup].(https://github.com/anhad-dhiman/Build-your-Setup)** — Gaming setup platform
 `Vue 3` `PostgreSQL` `Vercel Serverless` `IGDB API`
 - Rule-based recommendation engine that builds complete gaming setups from games, budget, preferences and hardware compatibility
 - bcrypt + JWT in httpOnly cookies, protected routes, and an IGDB-powered "Can I Run It?" check
 
-**Community Resource Navigator** *(team project, in progress)*
+**[Community Resource Navigator].(https://github.com/anhad-dhiman/Resource-Navigator)** *(team project, in progress)*
 `React` `Node.js / Express` `PostgreSQL (Supabase)` `Claude API`
 - AI-assisted search that helps Metro Vancouver residents find verified community services by describing their need in plain language
 - Database-first design: the AI interprets the query and explains matches, but every resource detail comes from verified records — never from the model
