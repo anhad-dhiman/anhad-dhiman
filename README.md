@@ -3,7 +3,7 @@
 Backend-focused developer and final-year **Bachelor of IT** student at Kwantlen Polytechnic University (GPA 3.77, Dean's List ×5), based in Metro Vancouver.
 I build real-time backend systems in **Java / Spring Boot** and **Node.js**, and testing them — JUnit 5, MockMvc, Vitest — then shipping them in Docker.
 
-🔍 **Open to an Co-ops (January – August 2027) or Full-time job oppurtunities** in backend development, test automation or DevOps.
+🔍 **Open to Co-ops (January – August 2027) or Full-time job oppurtunities** in backend development, test automation or DevOps.
 
 ---
 
