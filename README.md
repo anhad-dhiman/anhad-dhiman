@@ -10,11 +10,11 @@ I build real-time backend systems in **Java / Spring Boot** and **Node.js**, and
 ###  Featured Projects
 
 **[Chatroom](https://github.com/anhad-dhiman/Chatroom)** — Real-time chat application
-`Java 21` `Spring Boot` `WebSockets (STOMP)` `PostgreSQL` `React` `TypeScript` `Docker`
-- Event-driven messaging backend that publishes events only **after the database transaction commits**, so clients never see rolled-back data
-- Stateless **JWT + BCrypt** auth with authorization enforced on every read and write, over both HTTP and WebSocket
-- **59 automated tests**, including WebSocket integration tests that connect real STOMP clients to verify delivery, privacy and invalid-token rejection
-- One-command setup with a multi-stage Dockerfile and Docker Compose
+`Java 21` `Spring Boot` `WebSockets (STOMP)` `PostgreSQL` `React` `TypeScript` `Python` `Selenium` `GitHub Actions` `Docker`
+* 96 automated tests across four layers: JUnit and MockMvc, Vitest, and a Python + Selenium end-to-end suite that uses two browsers to verify real-time WebSocket delivery
+* GitHub Actions CI that lints, runs every test layer and smoke-tests the Docker image on PostgreSQL on every push; failing checks block merges
+* One Bash entry point (`run-tests.sh`) used identically locally and in CI, plus a written test plan with entry/exit criteria, defect severity levels and quality metrics
+* Event-driven backend that publishes events only after the database transaction commits, with JWT auth and authorization enforced over both HTTP and WebSocket
 
 **[Build Your Setup](https://github.com/anhad-dhiman/Build-your-Setup)** — Gaming setup platform
 `Vue 3` `PostgreSQL` `Vercel Serverless` `IGDB API`
